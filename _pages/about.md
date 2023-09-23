@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[**CV**](<a href="https://github.com/juliawilkins/juliawilkins.github.io/blob/master/files/Julia_Wilkins_ResumeSept23.pdf>) \| [**Updates**](#updates) \| [**Publications**](#publications) \| [**Outreach**](#outreach) \| [**Life**](#life)
+[**CV**](./files/Julia_Wilkins_ResumeSept23.pdf) \| [**Updates**](#updates) \| [**Publications**](#publications) \| [**Outreach**](#outreach) \| [**Life**](#life)
 
 Hello! I am currently a Computer Science PhD student at **New York University**. I work in the [Music and Audio Research Laboratory](https://steinhardt.nyu.edu/marl) and am advised by [Juan Pablo Bello](https://engineering.nyu.edu/faculty/juan-pablo-bello) and [Magdalena Fuentes](https://magdalenafuentes.github.io/). My current research interests lie in **multimodal representation learning with audio-visual data**, **machine listening** with limited labeled data, and creating new **datasets** in these spaces in creative ways.
 
