@@ -15,6 +15,8 @@ Prior to joining NYU, I was a Data Scientist/Engineer at [Sonos](https://www.son
 
 
 ## Updates
+- **[November 2024]** I will be at [ISMIR 2024](https://ismir2024.ismir.net/) in San Francisco, presenting a Late Breaking Demo on self-supervised audio disentanglement. Come say hi!
+- **[Summer 2024]** Looking forward to interning at [Bosch Research](https://www.bosch.com/research/) this summer, working with Ho-Hsiang Wu, Luca Bondi, and Winston Lin!
 - **[September 2023]** My paper in collaboration with Bosch Research was accepted to the [DCASE 2023 Workshop](https://dcase.community/workshop2023/index)!
 - **[June 2023]** My [paper](https://arxiv.org/abs/2308.09089) in collaboration with Adobe research was accepted to [WASPAA](https://waspaa.com/) 2023!  Check out our exciting project [website](https://juliawilkins.github.io/sound-effects-retrieval-from-video/) here!
 - **[May 2023]** I'm looking forward to returning to Adobe Research in San Francisco this summer!
@@ -22,17 +24,28 @@ Prior to joining NYU, I was a Data Scientist/Engineer at [Sonos](https://www.son
 
 
 ## Publications
+- **Self-Supervised Multi-View Representation Learning for Disentangled Music Audio Representations** <br>
+ <u>Julia Wilkins</u>, Sivan Ding, Magdalena Fuentes, Juan Pablo Bello. <i>Late Breaking Demo at International Society for Music Information Retrieval (**ISMIR**), 2024</i> <br> 
+
+
 - **Bridging High-Quality Audio and Video via Language for Sound Effects Retrieval from Visual Queries** <br>
  <u>Julia Wilkins</u>, Justin Salamon, Magdalena Fuentes, Juan Pablo Bello, Oriol Nieto. <i>IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (**WASPAA**), 2023.</i> <br> [**[📄 Paper]**](https://arxiv.org/abs/2308.09089) [**[💻 Website]**](https://juliawilkins.github.io/sound-effects-retrieval-from-video/)
 
 - **Two vs. Four-Channel Sound Event Localization and Detection** <br>
- <u>Julia Wilkins</u>, Magdalena Fuentes, Luca Bondi, Shabnam Ghaffarzadegan, Ali Abavisani, Juan Pablo Bello. <i>Workshop on Detection and Classification of Acoustic Scenes and Events (**DCASE**), 2023.</i> 
+ <u>Julia Wilkins</u>, Magdalena Fuentes, Luca Bondi, Shabnam Ghaffarzadegan, Ali Abavisani, Juan Pablo Bello. <i>Workshop on Detection and Classification of Acoustic Scenes and Events (**DCASE**), 2023.</i> [**[📄 Paper]**](https://arxiv.org/abs/2309.13343)
 
  - **Urban sound & sight: Dataset and benchmark for audio-visual urban scene understanding** <br>
  Magdalena Fuentes, Bea Steers, Pablo Zinemanas, Martín Rocamora, Luca Bondi, Julia Wilkins, Qianyi Shi, Yao Hou, Samarjit Das, Xavier Serra, Juan Pablo Bello <i>IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022.</i> <br> [**[📄 Paper]**](https://ieeexplore.ieee.org/abstract/document/9747644) [**[💻 Dataset]**](https://zenodo.org/record/6658386#.Yq-QrfPMK74)
 
+ - **Exploring a Probabilistic Approach to Vehicle Sound Source Localization in Urban Scenes** <br>
+ <u>Julia Wilkins</u>, Magdalena Fuentes, et al. <i>Sight and Sound Workshop at CVPR 2022.</i> <br> [**[📄 Paper]**](https://sightsound.org/papers/2022/Wilkins_Exploring_a_Probabilistic_Approach_to_Vehicle_Sound_Source_Localization_in_Urban_Scenes.pdf) 
+
 - **VocalSet: A Singing Voice Dataset** <br>
  <u>Julia Wilkins</u>, Prem Seetharaman, Alison Wahl, Bryan Pardo. <i>International Society for Music Information Retrieval (**ISMIR**), 2018.</i> <br> [**[📄 Paper]**](http://ismir2018.ircam.fr/doc/pdfs/114_Paper.pdf) [**[💻 Dataset]**](https://zenodo.org/record/1193957)
+
+ - **MedleyDB 2.0: New Data and a System for Sustainable Data Collection** <br>
+ Rachel Bittner, <u>Julia Wilkins</u>, Hanna Yip, Juan Pablo Bello. <i>Late Breaking Demo at International Society for Music Information Retrieval (**ISMIR**), 2016.</i> <br> [**[📄 Paper]**](http://ismir2018.ircam.fr/doc/pdfs/114_Paper.pdf) [**[💻 Dataset]**](https://rachelbittner.weebly.com/uploads/3/2/1/8/32182799/bittner_ismirlbd-mdb_2016.pdf)
+
 
 
 
