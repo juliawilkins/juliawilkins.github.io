@@ -51,10 +51,10 @@ Prior to joining NYU, I was a Data Scientist/Engineer at [Sonos](https://www.son
 
 Please refer to my [Google Scholar](https://scholar.google.com/citations?user=EXrU-SMAAAAJ&hl=en) for more information.
 
+## Teaching / Outreach
+- I put together a [**tutorial**](https://github.com/juliawilkins/py-lightning-wandb-tutorial/tree/main) with [Xavier Juanola Molet](https://xavijuanola.github.io/) on using ⚡[PyTorch Lightning](https://lightning.ai/docs/pytorch/stable/)⚡ and 👩‍💻[Weights and Biases](https://wandb.ai/site/)👩‍💻 to improve your machine learning workflow!
 
-## Outreach
 
-### Volunteer Work
 - From 2019-2021, I was a volunteer teacher with [Microsoft TEALS](https://www.microsoft.com/en-us/teals). I led academic year-long remote introductory Python courses at rural Washington high schools while working at Sonos, and hope to do more of this in the future!
 - I'm passionate about animal welfare and finding homes for dogs in urban environments. In New York, I've worked with the [NYC ACC](https://www.nycacc.org/). Previously, I volunteered for 2 years at the [Seattle Animal Shelter](https://www.seattle.gov/animal-shelter), and before then I was at the [Evanston Animal Shelter](http://evanstonanimalshelter.net/).
 
