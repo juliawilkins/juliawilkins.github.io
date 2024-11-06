@@ -25,7 +25,7 @@ Prior to joining NYU, I was a Data Scientist/Engineer at [Sonos](https://www.son
 
 ## Publications
 - **Self-Supervised Multi-View Representation Learning for Disentangled Music Audio Representations** <br>
- <u>Julia Wilkins</u>, Sivan Ding, Magdalena Fuentes, Juan Pablo Bello. <i>Late Breaking Demo at International Society for Music Information Retrieval (**ISMIR**), 2024</i> [**[💻 Website]**](https://juliawilkins.github.io/marlbymarl/)<br> 
+ <u>Julia Wilkins</u>, Sivan Ding, Magdalena Fuentes, Juan Pablo Bello. <i>Late Breaking Demo at International Society for Music Information Retrieval (**ISMIR**), 2024</i> [**[📄 Paper]**](https://arxiv.org/abs/2411.02711)[**[💻 Website]**](https://juliawilkins.github.io/marlbymarl/)<br> 
 
 
 
