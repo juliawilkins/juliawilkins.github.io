@@ -9,12 +9,17 @@ redirect_from:
 ---
 [**CV**](./files/Julia_Wilkins_ResumeSept23.pdf) \| [**Updates**](#updates) \| [**Publications**](#publications) \| [**Outreach**](#outreach) \| [**Life**](#life)
 
-Hello! I am currently a Computer Science PhD student at **New York University**. I work in the [Music and Audio Research Laboratory](https://steinhardt.nyu.edu/marl) and am advised by [Juan Pablo Bello](https://engineering.nyu.edu/faculty/juan-pablo-bello) and [Magdalena Fuentes](https://magdalenafuentes.github.io/). My current research interests lie in **multimodal representation learning with audio-visual data**, **machine listening** with limited labeled data, and creating new **datasets** in these spaces in creative ways.
+Hello! I am currently a 5th-year Computer Science PhD Candidate at **New York University** planning to complete my PhD in Summer 2026. I work in the [Music and Audio Research Laboratory](https://steinhardt.nyu.edu/marl) and am advised by [Juan Pablo Bello](https://engineering.nyu.edu/faculty/juan-pablo-bello) and [Magdalena Fuentes](https://magdalenafuentes.github.io/). My current research interests lie in **self-supervised audio representation learning**, sometimes in a **multimodal** setting with **audio-visual or audio-text data**, and **machine listening** more broadly. During my PhD, I have been fortunate to have fruitful research internships at **Adobe**, **Bosch**, and **SiriusXM/Pandora**. 
+
+🚀 I will be **seeking full-time Research Scientist roles in Fall 2026**. Let's chat at WASPAA, DCASE or ICASSP this year! 🚀
 
 Prior to joining NYU, I was a Data Scientist/Engineer at [Sonos](https://www.sonos.com/en-us/home) in Seattle. I completed my undergraduate degree in Computer Science and Music Technology at Northwestern University in 2018, and have [Prof. Bryan Pardo](https://bryan-pardo.github.io/) and the [Interactive Audio Lab](https://interactiveaudiolab.github.io/) to thank for fueling my interest in music information retrieval research at an early stage.
 
 
 ## Updates
+- **[September 2025]** Another one of [Sivan](https://www.sivan.fun/) and my works on audio representation disentanglement has been accepted to the [DCASE Workshop](https://dcase.community/workshop2025/)! I will be presenting a poster on this work in Barcelona at the end of October. Paper link to come soon!
+- **[July 2025]** My [paper](https://arxiv.org/abs/2507.22995) on self-supervised music representation disentanglement was accepted to [WASPAA](https://waspaa.com/) 2025! 🎉 See you in Tahoe!
+- **[June 2025]** I am looking forward to interning at [SiriusXM-Pandora](https://www.siriusxm.com/pandora) this summer working on audio representation learning for large-scale music recommendation and retrieval, with mentors [Matt McCallum](http://www.mattcmccallum.com/Home/), [Jaehun Kim](https://www.linkedin.com/in/jaehun-kim-b67068b4), and [Matthew Davies](https://mepdavies.github.io/)!
 - **[November 2024]** I will be at [ISMIR 2024](https://ismir2024.ismir.net/) in San Francisco, presenting a Late Breaking Demo on self-supervised audio disentanglement. Come say hi!
 - **[Summer 2024]** Looking forward to interning at [Bosch Research](https://www.bosch.com/research/) this summer, working with Ho-Hsiang Wu, Luca Bondi, and Winston Lin!
 - **[September 2023]** My paper in collaboration with Bosch Research was accepted to the [DCASE 2023 Workshop](https://dcase.community/workshop2023/index)!
@@ -24,9 +29,14 @@ Prior to joining NYU, I was a Data Scientist/Engineer at [Sonos](https://www.son
 
 
 ## Publications
+- **Latent Multi-view Learning for Robust Environmental Sound Representations** <br>
+Sivan Ding, <u>Julia Wilkins</u>, Magdalena Fuentes, Juan Pablo Bello. <i>Workshop on Detection and Classification of Acoustic Scenes and Events (**DCASE**), 2023.</i>  **[📄 Paper coming soon!]**
+
+- **Balancing Information Preservation and Disentanglement in Self-Supervised Music Representation Learning** <br>
+<u>Julia Wilkins</u>, Sivan Ding, Magdalena Fuentes, Juan Pablo Bello. <i>IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (**WASPAA**), 2025.</i> [**[📄 Paper]**](https://arxiv.org/abs/2507.22995)
+
 - **Self-Supervised Multi-View Representation Learning for Disentangled Music Audio Representations** <br>
  <u>Julia Wilkins</u>, Sivan Ding, Magdalena Fuentes, Juan Pablo Bello. <i>Late Breaking Demo at International Society for Music Information Retrieval (**ISMIR**), 2024</i> [**[📄 Paper]**](https://arxiv.org/abs/2411.02711)[**[💻 Website]**](https://juliawilkins.github.io/marlbymarl/)<br> 
-
 
 
 
@@ -71,7 +81,7 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?user=EX
 
 ## Life
 
-Outside of research and working with animals, I enjoy rock climbing, running, [cycling](https://www.kruiscx.com/), exploring NYC coffee shops, and spending time with my geckos! 
+Outside of research and working with animals, I enjoy rock climbing, running, [cycling](https://www.kruiscx.com/), exploring NYC coffee shops, and training my husky-shepherd mix, Kona.
 
 
 
