@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[**CV**](./files/Julia_Wilkins_ResumeSept23.pdf) \| [**Updates**](#updates) \| [**Publications**](#publications) \| [**Outreach**](#outreach) \| [**Life**](#life)
+[**CV**](./files/JW_ResumeOct2025.pdf) \| [**Updates**](#updates) \| [**Publications**](#publications) \| [**Outreach**](#outreach) \| [**Life**](#life)
 
 Hello! I am currently a 5th-year Computer Science PhD Candidate at **New York University** planning to complete my PhD in Summer 2026. I work in the [Music and Audio Research Laboratory](https://steinhardt.nyu.edu/marl) and am advised by [Juan Pablo Bello](https://engineering.nyu.edu/faculty/juan-pablo-bello) and [Magdalena Fuentes](https://magdalenafuentes.github.io/). My current research interests lie in **self-supervised audio representation learning**, sometimes in a **multimodal** setting with **audio-visual or audio-text data**, and **machine listening** more broadly. During my PhD, I have been fortunate to have fruitful research internships at **Adobe**, **Bosch**, and **SiriusXM/Pandora**. 
 
@@ -30,7 +30,7 @@ Prior to joining NYU, I was a Data Scientist/Engineer at [Sonos](https://www.son
 
 ## Publications
 - **Latent Multi-view Learning for Robust Environmental Sound Representations** <br>
-Sivan Ding, <u>Julia Wilkins</u>, Magdalena Fuentes, Juan Pablo Bello. <i>Workshop on Detection and Classification of Acoustic Scenes and Events (**DCASE**), 2023.</i>  **[📄 Paper coming soon!]**
+Sivan Ding, <u>Julia Wilkins</u>, Magdalena Fuentes, Juan Pablo Bello. <i>Workshop on Detection and Classification of Acoustic Scenes and Events (**DCASE**), 2025.</i>  **[📄 Paper]**](https://www.arxiv.org/abs/2510.02500)
 
 - **Balancing Information Preservation and Disentanglement in Self-Supervised Music Representation Learning** <br>
 <u>Julia Wilkins</u>, Sivan Ding, Magdalena Fuentes, Juan Pablo Bello. <i>IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (**WASPAA**), 2025.</i> [**[📄 Paper]**](https://arxiv.org/abs/2507.22995)
