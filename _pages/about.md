@@ -17,7 +17,7 @@ Prior to joining NYU, I was a Data Scientist/Engineer at [Sonos](https://www.son
 
 
 ## Updates
-- **[September 2025]** Another one of [Sivan](https://www.sivan.fun/) and my works on audio representation disentanglement has been accepted to the [DCASE Workshop](https://dcase.community/workshop2025/)! I will be presenting a poster on this work in Barcelona at the end of October. Paper link to come soon!
+- **[September 2025]** Another one of [Sivan](https://www.sivan.fun/) and my works on audio representation disentanglement has been accepted to the [DCASE Workshop](https://dcase.community/workshop2025/)! I will be presenting a poster on [this work](https://www.arxiv.org/abs/2510.02500) in Barcelona at the end of October. 
 - **[July 2025]** My [paper](https://arxiv.org/abs/2507.22995) on self-supervised music representation disentanglement was accepted to [WASPAA](https://waspaa.com/) 2025! 🎉 See you in Tahoe!
 - **[June 2025]** I am looking forward to interning at [SiriusXM-Pandora](https://www.siriusxm.com/pandora) this summer working on audio representation learning for large-scale music recommendation and retrieval, with mentors [Matt McCallum](http://www.mattcmccallum.com/Home/), [Jaehun Kim](https://www.linkedin.com/in/jaehun-kim-b67068b4), and [Matthew Davies](https://mepdavies.github.io/)!
 - **[November 2024]** I will be at [ISMIR 2024](https://ismir2024.ismir.net/) in San Francisco, presenting a Late Breaking Demo on self-supervised audio disentanglement. Come say hi!
@@ -30,7 +30,7 @@ Prior to joining NYU, I was a Data Scientist/Engineer at [Sonos](https://www.son
 
 ## Publications
 - **Latent Multi-view Learning for Robust Environmental Sound Representations** <br>
-Sivan Ding, <u>Julia Wilkins</u>, Magdalena Fuentes, Juan Pablo Bello. <i>Workshop on Detection and Classification of Acoustic Scenes and Events (**DCASE**), 2025.</i>  **[📄 Paper]**](https://www.arxiv.org/abs/2510.02500)
+Sivan Ding, <u>Julia Wilkins</u>, Magdalena Fuentes, Juan Pablo Bello. <i>Workshop on Detection and Classification of Acoustic Scenes and Events (**DCASE**), 2025.</i>  [**[📄 Paper]**](https://www.arxiv.org/abs/2510.02500)
 
 - **Balancing Information Preservation and Disentanglement in Self-Supervised Music Representation Learning** <br>
 <u>Julia Wilkins</u>, Sivan Ding, Magdalena Fuentes, Juan Pablo Bello. <i>IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (**WASPAA**), 2025.</i> [**[📄 Paper]**](https://arxiv.org/abs/2507.22995)
